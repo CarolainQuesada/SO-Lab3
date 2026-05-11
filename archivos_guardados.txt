@@ -1,0 +1,7 @@
+#Archivos guardados del simulador
+#Sun May 10 23:46:40 CST 2026
+A.txt=hola
+C.txt=Tuanis 
+D.txt=hola
+Lab3.txt=Este es el primer fragmento del ensayo que ocupa espacio en disco.\r\n\r\nEste es el segundo fragmento que supera los 64 caracteres del bloque.\r\n\r\nEste es el tercer fragmento para forzar un tercer bloque de almacenamiento.\r\n
+Tarea.txt=Hacer nada
